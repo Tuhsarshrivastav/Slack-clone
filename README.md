@@ -1,3 +1,23 @@
+## Slack-clone 🚀 🚀 🚀
+Live Demo 👉 https://slack-clone-9eabf.web.app/
+
+![Screenshot from 2021-03-13 18-01-39](https://user-images.githubusercontent.com/74534919/111030379-e4136780-8427-11eb-8fae-455f98ceb0ae.png)
+![Screenshot from 2021-03-13 18-02-13](https://user-images.githubusercontent.com/74534919/111030386-efff2980-8427-11eb-9d06-bba28373b4e3.png)
+
+<details open="open">
+  <summary>Tools/Packages</summary>
+  <ul><li>React.Js</li>
+    <li>localstorage</li>
+    <li>CSS-3</li>
+    <li>HTML-5</li>
+    <li>Firebase</li>
+    <li>material-UI/Icon</li>
+     <li>Real-time-chat-functionality</li>
+    <li>Google-Authentication-firebase</li>
+  </ul>
+</details>
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
